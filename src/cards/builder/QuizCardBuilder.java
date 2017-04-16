@@ -48,7 +48,7 @@ public class QuizCardBuilder {
         JLabel qLabel = new JLabel("Question");
         JLabel aLabel = new JLabel("Answer");
 
-        JButton nextButton = new JButton("NextCard");
+        JButton nextButton = new JButton("NexCard");
         nextButton.addActionListener(new NextButtonListener());
 
         panel.add(qLabel);
