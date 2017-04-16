@@ -23,7 +23,7 @@ public class QuizCardBuilder {
     }
 
     public void go() {
-        frame = new JFrame("Playe");
+        frame = new JFrame("Player");
         JPanel panel = new JPanel();
 
         Font bigFont = new Font("sanserif", Font.BOLD, 24);
