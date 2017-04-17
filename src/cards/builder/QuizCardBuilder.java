@@ -1,6 +1,6 @@
 package cards.builder;
-//das
-//commendd
+//sl
+//comment from IDEA
 import cards.QuizCard;
 import javax.swing.*;
 import java.awt.*;
