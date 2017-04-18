@@ -24,7 +24,7 @@ public class QuizCardBuilder {
     }
 
     public void go() {
-        frame = new JFrame("Player");
+        frame = new JFrame("Playsse");
         JPanel panel = new JPanel();
 
         Font bigFont = new Font("sanserif", Font.BOLD, 24);
