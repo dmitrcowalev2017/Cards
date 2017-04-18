@@ -1,2 +1,2 @@
 # Cards
-Local README1
+Cards app from Head First Java book
