@@ -69,7 +69,7 @@ public class QuizCardPlayer {
                 if (nextIndex < cards.size()) {
                     showNextCard();
                 } else {
-                    textArea.setText("END");
+                    textArea.setText("ENdsa");
                     button.setEnabled(false);
                 }
             }
