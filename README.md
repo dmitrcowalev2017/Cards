@@ -1,2 +1,2 @@
 # Cards
-Cards app from Head First Java book
+Cards app f Head First Java books
