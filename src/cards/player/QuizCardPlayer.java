@@ -37,7 +37,7 @@ public class QuizCardPlayer {
         scrollPane.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
 
-        button = new JButton("Start");
+        button = new JButton("Start!");
         button.addActionListener(new ButtonListener());
 
         panel.add(scrollPane);
